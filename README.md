@@ -10,7 +10,7 @@ Plotter can be use to plot any type of graph like
 
 Anytype of data can be used like we can generate random values for a table of 100 rows and 5 columns, create own table of 4 rows and 5 columns or upload a file like csv/json/txt as an input data. 
 
-
+I have also uploaded to two csv file to test this code on your system.
 
 
 
